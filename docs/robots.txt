@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moatchuninfigure.github.io/download-manager-for-pc/sitemap.xml
