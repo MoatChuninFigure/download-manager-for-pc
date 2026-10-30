@@ -1,6 +1,6 @@
 # Download Manager
 
-> Free, open source download manager software for Windows 10 and 11. Multithreaded downloads, video downloads, queues, a scheduler and a Chrome extension. Based on Persepolis Download Manager, released under GPLv3.
+> Free, open source download manager software for Windows 10 and 11. Multithreaded downloads, video downloads, queues, a scheduler and a Chrome extension. Released under GPLv3.
 
 ## Product
 
